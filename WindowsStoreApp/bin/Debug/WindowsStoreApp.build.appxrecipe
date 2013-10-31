@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TINDLE-SURFACE</Machine>
+    <WindowsUser>Justin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f5c6e3fc-84cf-40a3-a994-10d995df7aa8</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\cordova.js">
+      <PackagePath>cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\js\app\app.js">
+      <PackagePath>js\app\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\js\app\helpers\knockouthelper.js">
+      <PackagePath>js\app\helpers\knockouthelper.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\js\app\helpers\pagebinding.js">
+      <PackagePath>js\app\helpers\pagebinding.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\js\jquery-2.0.3.js">
+      <PackagePath>js\jquery-2.0.3.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\js\jquery.mobile-1.3.0.js">
+      <PackagePath>js\jquery.mobile-1.3.0.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\js\knockout-2.2.1.js">
+      <PackagePath>js\knockout-2.2.1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\pages\map\map.js">
+      <PackagePath>pages\map\map.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\css\images\ajax-loader.gif">
+      <PackagePath>css\images\ajax-loader.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\css\images\back.png">
+      <PackagePath>css\images\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\css\images\icons-18-black.png">
+      <PackagePath>css\images\icons-18-black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\css\images\icons-18-white.png">
+      <PackagePath>css\images\icons-18-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\css\images\icons-36-black.png">
+      <PackagePath>css\images\icons-36-black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\css\images\icons-36-white.png">
+      <PackagePath>css\images\icons-36-white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\img\logo.scale-100.png">
+      <PackagePath>img\logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\img\smalllogo.scale-100.png">
+      <PackagePath>img\smalllogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\img\splashscreen.scale-100.png">
+      <PackagePath>img\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\img\storelogo.scale-100.png">
+      <PackagePath>img\storelogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\css\jquery.mobile-1.3.0.css">
+      <PackagePath>css\jquery.mobile-1.3.0.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\css\jquery.mobile.structure-1.3.0.css">
+      <PackagePath>css\jquery.mobile.structure-1.3.0.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\css\jquery.mobile.theme-1.3.0.css">
+      <PackagePath>css\jquery.mobile.theme-1.3.0.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\css\Site.css">
+      <PackagePath>css\Site.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\pages\map\map.css">
+      <PackagePath>pages\map\map.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\pages\map\map.html">
+      <PackagePath>pages\map\map.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Justin\Documents\GitHub\mobilecincy-phonegap\WindowsStoreApp\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
