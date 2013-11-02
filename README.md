@@ -9,4 +9,4 @@ SPA - Simple single page application that is being consumed in PhoneGap containe
 
 WindowsStoreApp - A sample Windows Store App (Windows 8.1) that shows off a basic PhoneGap Container app with a SPA web application.
 
-Please if you have any questions email me at justint@kizan.com or ask me a question on twitter @justintindle
+Please if you have any questions email me at (justint AT kizan DOT com) or ask me a question on twitter @justintindle
