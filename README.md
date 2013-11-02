@@ -1,4 +1,4 @@
-codepalousa-phonegap
+mobilecincy-phonegap
 ====================
 
 This repository was used in the making of the Cross Platform Apps using HTML 5 and PhoneGap presentation given by Justin Tindle during Mobile-Cincy 2013.
